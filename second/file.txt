@@ -18,6 +18,6 @@
   <p>Live Data (Files and Databases)</p>
   <p>Data Log Files</p>
  <p>Sub Modules</p>
- <p><b>GitLab</b></p>
+ <p>GitLab</p>
 </body>
 </html>
