@@ -1,3 +1,23 @@
-happy republic day!!!!!
- 
-Proud to an Indian....
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Minutus Company</title>
+  <title> Pune </title>
+</head>
+
+<body>
+
+  <h1>Welcome to Our Company</h1>
+  <h2>Web Site Main Ingredients:</h2>
+  <h3>Company Profile</h3>
+
+  <p>Pages (HTML)</p>
+  <p>Style Sheets (CSS)</p>
+  <p>Computer Code (JavaScript)</p>
+  <p>Live Data (Files and Databases)</p>
+  <p>Data Log Files</p>
+ <p>Sub Modules</p>
+ <p><b>GitLab</b></p>
+</body>
+</html>
